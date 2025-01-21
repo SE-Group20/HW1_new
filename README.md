@@ -8,3 +8,6 @@
 
 ## Platform
 ![Platform: Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
+
+## Tests
+![Pytest](https://github.com/SE-Group20/HW1_new/actions/workflows/test.yml/badge.svg)
