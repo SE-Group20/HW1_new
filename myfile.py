@@ -1,14 +1,12 @@
 def find_largest(numbers):
-    largest = 99999  # Logical error: Assuming numbers are always non-negative
-    smallest = -99999
+    largest = -99999  # Logical error: Assuming numbers are always non-negative
     for num in numbers:
         if num > largest:
             largest = num
     return largest
 
 def find_smallest(numbers):
-    smallest = -99999  # Logical error: Assuming numbers are always non-negative
-    largest = 9999
+    smallest = 99999  # Logical error: Assuming numbers are always non-negative
     for num in numbers:
         if num > smallest:
             smallest = num
