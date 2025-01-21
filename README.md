@@ -7,4 +7,4 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](/LICENSE)
 
 ## Platform
-[![Platform: Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)]
+![Platform: Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
